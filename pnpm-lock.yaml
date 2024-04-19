@@ -74,7 +74,7 @@ devDependencies:
     specifier: ^20
     version: 20.10.3
   '@types/react':
-    specifier: ^18
+    specifier: ^18.2.42
     version: 18.2.42
   '@types/react-dom':
     specifier: ^18
@@ -86,7 +86,7 @@ devDependencies:
     specifier: 14.0.3
     version: 14.0.3(eslint@8.55.0)(typescript@5.3.2)
   typescript:
-    specifier: ^5
+    specifier: ^5.3.2
     version: 5.3.2
 
 packages:
@@ -5489,6 +5489,7 @@ packages:
       is-hex-prefixed: 1.0.0
       strip-hex-prefix: 1.0.0
     dev: false
+    bundledDependencies: false
 
   /eventemitter3@4.0.7:
     resolution: {integrity: sha512-8guHBZCwKnFhYdHr2ysuRWErTwhoN2X8XELRlrRwpmfeY2jjuUN4taQMsULKUVo1K4DvZl+0pgfyoysHxvmvEw==}
