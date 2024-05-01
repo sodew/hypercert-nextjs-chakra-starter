@@ -45,6 +45,7 @@ export default function Home() {
           height={37}
           priority
         />
+        <p>test</p>
         <ClientInfo />
       </Flex>
 

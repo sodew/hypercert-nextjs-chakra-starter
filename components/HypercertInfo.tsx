@@ -90,6 +90,7 @@ const HypercertInfo = ({ uri }: { uri: string }) => {
               </Tr>
             </Tbody>
           </Table>
+          <p>test test</p>
           <Image src={metaData.image} alt="Follow us on Twitter" height={400} />
         </Flex>
       ) : (
